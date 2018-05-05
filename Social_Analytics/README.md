@@ -1,6 +1,7 @@
 **Employment Rate by State vs. Heavy drinking Rates**
 
 Data sources:
+
     - American Fact Finder, year 2014
         https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml
 
